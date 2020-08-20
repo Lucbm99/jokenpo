@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Jokenpô em JS">
+    <link rel="stylesheet" href="_css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap" rel="stylesheet">
+    <title>Jokenpô</title>
+</head>
+<body>
+
+    <h1>Vamos jogar jokenpô? Escolha uma opção abaixo:</h1>
+    <ul> 
+        <li><img src="_images/pedra.png" alt="Pedra" class="imagem_pedra" onclick="selecionaPedra()"></li>
+        <li><img src="_images/papel.png" alt="Papel"  class="imagem_papel" onclick="selecionaPapel()"></li>
+        <li><img src="_images/tesoura.png" alt="Tesoura" class="imagem_tesoura" onclick="selecionaTesoura()" ></li>
+    </ul>
+
+    <button id="botaoJogada" onclick="realizarJogada()">Realizar Jogada</button>
+    <hr>
+    
+    <div id="fotosResultado">
+        <img src="" id="fotoUsuario"> 
+        <img src="" id="fotoComputador">
+    </div>
+
+    <div id="ganhador">
+
+    </div>
+
+    <script src="_js/script.js"></script>
+</body>
+</html>
