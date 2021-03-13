@@ -50,7 +50,7 @@ E, ao clicar no arquivo index.html, o arquivo abrirá no seu navegador, com o jo
 ![image](https://user-images.githubusercontent.com/45500959/111052950-8c342b00-843e-11eb-9881-688c1d904a53.png)
 
 
-## 📦 Status do Site
+## 📦 Status
 🚧  Finalizado 🚧
 📦 Link da aplicação para acesso: https://lucasbmarchiori.com.br/jokenpo/ 📦
 
