@@ -1,6 +1,6 @@
 # Jogo Jokenpô - pedra, papel e tesoura
 
-Código feito para a disciplina de Desenvolvimento Web, para um trabalho de faculdade.
+Código feito para a disciplina de Desenvolvimento Web, para um trabalho de faculdade do jogo jokenpô (pedra, papel e tesoura).
 
 ## 🚀 Instruções 
 Para que você veja o código do projeto funcionando em sua máquina, serão disponibilizadas algumas instruções no tópico 🔧 Como rodar o projeto? 
