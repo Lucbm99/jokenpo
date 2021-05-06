@@ -52,6 +52,7 @@ E, ao clicar no arquivo index.html, o arquivo abrirá no seu navegador, com o jo
 
 ## 📦 Status
 🚧  Finalizado 🚧
+
 📦 Link da aplicação para acesso: https://lucasbmarchiori.com.br/jokenpo/ 📦
 
 
